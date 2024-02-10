@@ -1,0 +1,1 @@
+alter table samplecopy add precipitation float,soil_type varchar(255),sunlight float,pest_and_disease varchar(255);
