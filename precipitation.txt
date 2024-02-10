@@ -1,0 +1,550 @@
+Srikakulam	725.2	Red loamy	7.0	Rice blast, leaf blight, stem borer
+Vizianagaram	758.7	Black clayey	7.5	Cotton bollworm, whitefly, jassids
+Parvathipuram Manyam	865.5	Red loamy	7.0	Tobacco caterpillar, hornworm, aphids
+Alluri Sitharama Raju	955.0	Red loamy	7.5	Mango hoppers, fruit fly, scale insects
+Visakhapatnam	585.1	Red loamy	7.0	Cashew nut borer, thrips, mealybugs
+Anakapalli	643.1	Red loamy	7.5	Groundnut leaf miner, whitefly, aphids
+Kakinada	558.1	Sandy loam	7.0	Coconut red palm weevil, leaf miner, scale insects
+Dr. B.R.Ambedkar Konaseema	556.8	Sandy loam	7.5	Paddy blast, leaf blight, stem borer
+East Godavari	703.5	Sandy loam	7.0	Sugarcane borer, whitefly, jassids
+West Godavari	606.2	Sandy loam	7.5	Chilli thrip, fruit borer, leaf miner
+Eluru	682.9	Sandy loam	7.0	Tobacco caterpillar, hornworm, aphids
+Krishna	851.6	Sandy loam	7.5	Mango hoppers, fruit fly, scale insects
+NTR	649.3	Sandy loam	7.0	Cotton bollworm, whitefly, jassids
+Guntur	724.0	Sandy loam	7.5	Groundnut leaf miner, whitefly, aphids
+Bapatla	624.6	Sandy loam	7.0	Coconut red palm weevil, leaf miner, scale insects
+Palnadu	483.7	Sandy loam	7.5	Paddy blast, leaf blight, stem borer
+Prakasam	369.6	Sandy loam	7.0	Sugarcane borer, whitefly, jassids
+Sri Potti Sriramulu Nellore	320.6	Sandy loam	7.5	Chilli thrip, fruit borer, leaf miner
+Kurnool	349.6	Sandy loam	7.0	Tobacco caterpillar, hornworm, aphids
+Nandyal	461.0	Sandy loam	7.5	Mango hoppers, fruit fly, scale insects
+Ananthapuramu	285.7	Sandy loam	7.0	Cotton bollworm, whitefly, jassids
+Sri Sathya Sai	344.1	Sandy loam	7.5	Groundnut leaf miner, whitefly, aphids
+Tawang	1500	Mountainous	5.0	Brown leaf spot, rice stem borer, whitefly
+West Kameng	1200	Mountainous	5.5	Early blight, late blight, potato tuber moth
+East Kameng	1000	Mountainous	6.0	Rice blast, brown spot, powdery mildew
+Papum Pare	800	Mountainous	6.5	Tea mosquito bug, thrips, leaf roller
+Lower Subansiri	600	Mountainous	7.0	Citrus leaf miner, scale insects, mealybugs
+Kurung Kumey	500	Mountainous	7.5	Rice stem borer, whitefly, mealybugs
+Upper Subansiri	400	Mountainous	8.0	Tea mosquito bug, thrips, leaf roller
+Dibang Valley	300	Mountainous	8.5	Citrus leaf miner, scale insects, mealybugs
+Siang	200	Mountainous	9.0	Rice stem borer, whitefly, mealybugs
+Lower Dibang Valley	100	Mountainous	9.5	Tea mosquito bug, thrips, leaf roller
+Lohit	50	Mountainous	10.0	Citrus leaf miner, scale insects, mealybugs
+Namsai	100	Sandy loam	6.0	Brown leaf spot, rice stem borer, whitefly
+Changlang	200	Sandy loam	6.5	Early blight, late blight, potato tuber moth
+Tirap	300	Sandy loam	7.0	Rice blast, brown spot, powdery mildew
+Longding	400	Sandy loam	7.5	Tea mosquito bug, thrips, leaf roller
+Anjaw	500	Sandy loam	8.0	Citrus leaf miner, scale insects, mealybugs
+Kamle	600	Sandy loam	8.5	Rice stem borer, whitefly, mealybugs
+Pakke-Kessang	700	Sandy loam	9.0	Tea mosquito bug, thrips, leaf roller
+Kra Daadi	800	Sandy loam	9.5	Citrus leaf miner, scale insects, mealybugs
+Araria	1350	Alluvial	6.5	Brown leaf spot, rice stem borer, whitefly
+Begusarai	1200	Alluvial	7.0	Early blight, late blight, potato tuber moth
+Bhagalpur	1000	Alluvial	7.5	Rice blast, brown spot, powdery mildew
+Bhojpur	800	Alluvial	8.0	Tea mosquito bug, thrips, leaf roller
+Buxar	600	Alluvial	8.5	Citrus leaf miner, scale insects, mealybugs
+Darbhanga	500	Alluvial	9.0	Rice stem borer, whitefly, mealybugs
+East Champaran	400	Alluvial	9.5	Tea mosquito bug, thrips, leaf roller
+Gaya	300	Alluvial	10.0	Citrus leaf miner, scale insects, mealybugs
+Gopalganj	200	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Jamui	100	Sandy loam	7.0	Early blight, late blight, potato tuber moth
+Jehanabad	50	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+Kaimur	100	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Katihar	200	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+Khagaria	300	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Kishanganj	400	Sandy loam	9.5	Tea mosquito bug, thrips, leaf roller
+Lakhisarai	500	Sandy loam	10.0	Citrus leaf miner, scale insects, mealybugs
+Madhepura	600	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Madhubani	700	Sandy loam	7.0	Early blight, late blight, potato tuber moth
+Munger	800	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+Muzaffarpur	900	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Nalanda	1000	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+Nawada	1100	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Patna	1200	Sandy loam	9.5	Tea mosquito bug, thrips, leaf roller
+Purnea	1300	Sandy loam	10.0	Citrus leaf miner, scale insects, mealybugs
+Rohtas	1400	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Saharsa	1500	Sandy loam	7.0	Early blight, late blight, potato tuber moth
+Samastipur	1600	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+Saran	1700	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Sheohar	1800	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+Sitamarhi	1900	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Siwan	2000	Sandy loam	9.5	Tea mosquito bug, thrips, leaf roller
+Supaul	2100	Sandy loam	10.0	Citrus leaf miner, scale insects, mealybugs
+Vaishali	2200	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Karbi Anglong	2750	Lateritic soils, alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Morigaon	2250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Nalbari	2250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Barpeta	2750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Chirang	3250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Dhubri	3750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Kokrajhar	4250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Bongaigaon	4750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Dhemaji	5250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Lakhimpur	5750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Tinsukia	6250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Dibrugarh	6750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Sivasagar	7250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Jorhat	7750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Golaghat	8250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Nagaon	8750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Hojai	9250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Kamrup	9750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Kamrup Metropolitan	10250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Darrang	10750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Sonitpur	11250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Baksa	11750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Udalguri	12250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Cachar	12750	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Hailakandi	13250	Alluvial soils	5.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Surguja	1750	Lateritic soils, alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Raigarh	1750	Lateritic soils, alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Jashpur	1750	Lateritic soils, alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Bilaspur	1750	Lateritic soils, alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Korba	1750	Lateritic soils, alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Janjgir-Champa	1750	Alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Rajnandgaon	1750	Alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Durg	1750	Alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Raipur	1750	Alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Baloda Bazar	1750	Alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Mahasamund	1750	Alluvial soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Kanker	1750	Lateritic soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Bastar	1750	Lateritic soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Dantewada	1750	Lateritic soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+Bijapur	1750	Lateritic soils	6.5	Armyworms, cutworms, aphids, leaf spot diseases, fungal diseases
+North Goa	2300	Lateritic	6.5	Coconut leaf miner, red palm weevil, black rot
+South Goa	2200	Lateritic	7.0	Rice stem borer, brown plant hopper, blast
+Canacona	2100	Lateritic	7.5	Fruit fly, mealybug, scale insects
+Curchorem	2000	Lateritic	8.0	Citrus leaf miner, thrips, whiteflies
+Pernem	1900	Lateritic	8.5	Mango hoppers, aphids, powdery mildew
+Ponda	1800	Lateritic	9.0	Cashew nut borer, leaf miner, black spot
+Quepem	1700	Lateritic	9.5	Banana thrips, leaf rollers, bacterial wilt
+Salcete	1600	Lateritic	10.0	Papaya fruit fly, mealybug, downy mildew
+Sanguem	1500	Lateritic	6.5	Coconut leaf miner, red palm weevil, black rot
+Tiswadi	1400	Lateritic	7.0	Rice stem borer, brown plant hopper, blast
+Vasco da Gama	1300	Lateritic	7.5	Fruit fly, mealybug, scale insects
+Velim	1200	Lateritic	8.0	Citrus leaf miner, thrips, whiteflies
+Ahmedabad	650	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Amreli	600	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Anand	700	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Aravalli	750	Lateritic soils	7.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Banaskantha	800	Sandy loam soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Bharuch	850	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Bhavnagar	900	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Botad	950	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Chhota Udaipur	1000	Lateritic soils	7.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Dahod	1050	Sandy loam soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Dang	1100	Lateritic soils	7.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Devbhoomi Dwarka	1150	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Gandhinagar	700	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Gir Somnath	1200	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Jamnagar	1250	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Junagadh	1300	Lateritic soils	7.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Kachchh	1350	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Kheda	750	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Mahisagar	800	Sandy loam soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Mehsana	850	Sandy loam soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Morbi	900	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Narmada	950	Lateritic soils	7.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Navsari	1000	Alluvial soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Panchmahal	1050	Sandy loam soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Patan	1100	Sandy loam soils	7.5	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Porbandar	1150	Sandy loam soils	8.0	Whiteflies, aphids, jassids, leaf spot diseases, fungal diseases
+Rajkot	1200	Sandy loam soils	8.0	Whiteflies, aphids, jass
+Ambala	650	Sandy loam	7.5	Whitefly, thrips, leaf miner
+Bhiwani	550	Sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Charkhi Dadri	450	Sandy loam	8.5	Fruit fly, mealybug, scale insects
+Faridabad	350	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Fatehabad	250	Sandy loam	9.5	Mango hoppers, aphids, powdery mildew
+Gurgaon	150	Sandy loam	10.0	Cashew nut borer, leaf miner, black spot
+Hisar	50	Sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Jhajjar	100	Sandy loam	7.0	Papaya fruit fly, mealybug, downy mildew
+Jind	150	Sandy loam	7.5	Coconut leaf miner, red palm weevil, black rot
+Kaithal	200	Sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Karnal	250	Sandy loam	8.5	Fruit fly, mealybug, scale insects
+Kurukshetra	300	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Mahendragarh	350	Sandy loam	9.5	Mango hoppers, aphids, powdery mildew
+Mewat	400	Sandy loam	10.0	Cashew nut borer, leaf miner, black spot
+Palwal	450	Sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Panchkula	500	Sandy loam	7.0	Papaya fruit fly, mealybug, downy mildew
+Panipat	550	Sandy loam	7.5	Coconut leaf miner, red palm weevil, black rot
+Rewari	600	Sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Rohtak	650	Sandy loam	8.5	Fruit fly, mealybug, scale insects
+Sirsa	700	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Sonipat	750	Sandy loam	9.5	Mango hoppers, aphids, powdery mildew
+Yamunanagar	800	Sandy loam	10.0	Cashew nut borer, leaf miner, black spot
+Chamba	2000	Alluvial	5.5	Brown leaf spot, rice stem borer, whitefly
+Kangra	1800	Alluvial	6.0	Early blight, late blight, potato tuber moth
+Mandi	1600	Alluvial	6.5	Rice blast, brown spot, powdery mildew
+Shimla	1400	Sandy loam	7.0	Tea mosquito bug, thrips, leaf roller
+Kullu	1200	Sandy loam	7.5	Citrus leaf miner, scale insects, mealybugs
+Lahaul-Spiti	1000	Sandy loam	8.0	Rice stem borer, whitefly, mealybugs
+Kinnaur	800	Sandy loam	8.5	Tea mosquito bug, thrips, leaf roller
+Sirmaur	600	Sandy loam	9.0	Citrus leaf miner, scale insects, mealybugs
+Solan	400	Sandy loam	9.5	Rice stem borer, whitefly, mealybugs
+Una	200	Sandy loam	10.0	Tea mosquito bug, thrips, leaf roller
+Bokaro	1350	Alluvial	6.5	Brown leaf spot, rice stem borer, whitefly
+Chatra	1200	Alluvial	7.0	Early blight, late blight, potato tuber moth
+Deoghar	1000	Alluvial	7.5	Rice blast, brown spot, powdery mildew
+Dhanbad	800	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Dumka	600	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+Garhwa	500	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Giridih	400	Sandy loam	9.5	Tea mosquito bug, thrips, leaf roller
+Godda	300	Sandy loam	10.0	Citrus leaf miner, scale insects, mealybugs
+Gumla	200	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Hazaribagh	100	Sandy loam	7.0	Early blight, late blight, potato tuber moth
+Jamtara	50	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+Khunti	100	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Koderma	200	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+Latehar	300	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Lohardaga	400	Sandy loam	9.5	Tea mosquito bug, thrips, leaf roller
+Pakur	500	Sandy loam	10.0	Citrus leaf miner, scale insects, mealybugs
+Palamu	600	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Ranchi	700	Sandy loam	7.0	Early blight, late blight, potato tuber moth
+Sahibganj	800	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+Seraikela-Kharsawan	900	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Simdega	1000	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+West Singhbhum	1100	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Bagalkote	650	Black cotton	7.5	Whitefly, thrips, leaf miner
+Ballari	550	Red loamy	8.0	Rice stem borer, brown plant hopper, blast
+Belagavi	450	Laterite	8.5	Fruit fly, mealybug, scale insects
+Bengaluru Rural	350	Red sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Bengaluru Urban	250	Red sandy loam	9.5	Mango hoppers, aphids, powdery mildew
+Bidar	150	Red sandy loam	10.0	Cashew nut borer, leaf miner, black spot
+Chamarajanagara	50	Red loamy	6.5	Banana thrips, leaf rollers, bacterial wilt
+Chikkaballapura	100	Red sandy loam	7.0	Papaya fruit fly, mealybug, downy mildew
+Chikkamagaluru	150	Laterite	7.5	Coconut leaf miner, red palm weevil, black rot
+Chitradurga	200	Red loamy	8.0	Rice stem borer, brown plant hopper, blast
+Dakshina Kannada	250	Laterite	8.5	Fruit fly, mealybug, scale insects
+Davangere	300	Red loamy	9.0	Citrus leaf miner, thrips, whiteflies
+Dharwad	350	Black cotton	9.5	Mango hoppers, aphids, powdery mildew
+Gadag	400	Black cotton	10.0	Cashew nut borer, leaf miner, black spot
+Haveri	450	Red sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Hassan	500	Red loamy	7.0	Papaya fruit fly, mealybug, downy mildew
+Kodagu	550	Laterite	7.5	Coconut leaf miner, red palm weevil, black rot
+Kolar	600	Red sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Koppal	650	Red loamy	8.5	Fruit fly, mealybug, scale insects
+Mandya	700	Red loamy	9.0	Citrus leaf miner, thrips, whiteflies
+Mysuru	750	Red loamy	9.5	Mango hoppers, aphids, powdery mildew
+Raichur	800	Red loamy	10.0	Cashew nut borer, leaf miner, black spot
+Ramanagara	650	Red sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Shivamogga	550	Red loamy	7.0	Papaya fruit fly, mealybug, downy mildew
+Tumakuru	450	Red sandy loam	7.5	Coconut leaf miner, red palm weevil, black rot
+Udupi	350	Laterite	8.0	Rice stem borer, brown plant hopper, blast
+Uttara Kannada	250	Laterite	8.5	Fruit fly, mealybug, scale insects
+Vijayapura	150	Black cotton	9.0	Citrus leaf miner, thrips, whiteflies
+Yadgir	50	Black cotton	9.5	Mango hoppers, aphids, powdery mildew
+Alappuzha	3500	Alluvial	6.5	Brown leaf spot, rice stem borer, whitefly
+Ernakulam	3000	Laterite	7.0	Early blight, late blight, potato tuber moth
+Idukki	2500	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+Kannur	2000	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Kasaragod	1500	Laterite	8.5	Citrus leaf miner, scale insects, mealybugs
+Kottayam	1000	Red loamy	9.0	Rice stem borer, whitefly, mealybugs
+Kozhikode	500	Sandy loam	9.5	Tea mosquito bug, thrips, leaf roller
+Malappuram	100	Sandy loam	10.0	Citrus leaf miner, scale insects, mealybugs
+Palakkad	50	Red loamy	6.5	Brown leaf spot, rice stem borer, whitefly
+Pathanamthitta	100	Laterite	7.0	Early blight, late blight, potato tuber moth
+Thiruvananthapuram	150	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+Thrissur	200	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Wayanad	250	Red loamy	8.5	Citrus leaf miner, scale insects, mealybugs
+Agar-Malwa	850	Sandy loam	6.5	Whitefly, thrips, leaf miner
+Alirajpur	950	Black cotton	7.0	Rice stem borer, brown plant hopper, blast
+Anuppur	1050	Red loamy	7.5	Fruit fly, mealybug, scale insects
+Ashoknagar	1150	Sandy loam	8.0	Citrus leaf miner, thrips, whiteflies
+Bhopal	1250	Red loamy	8.5	Mango hoppers, aphids, powdery mildew
+Burhanpur	1350	Sandy loam	9.0	Cashew nut borer, leaf miner, black spot
+Chhatarpur	1450	Red loamy	9.5	Banana thrips, leaf rollers, bacterial wilt
+Chhindwara	1550	Sandy loam	10.0	Papaya fruit fly, mealybug, downy mildew
+Damoh	1650	Red loamy	6.5	Coconut leaf miner, red palm weevil, black rot
+Datia	1750	Sandy loam	7.0	Rice stem borer, brown plant hopper, blast
+Dewas	1850	Red loamy	7.5	Fruit fly, mealybug, scale insects
+Dhar	1950	Sandy loam	8.0	Citrus leaf miner, thrips, whiteflies
+Dindori	2050	Red loamy	8.5	Mango hoppers, aphids, powdery mildew
+Guna	2150	Sandy loam	9.0	Cashew nut borer, leaf miner, black spot
+Gwalior	2250	Red loamy	9.5	Banana thrips, leaf rollers, bacterial wilt
+Harda	2350	Sandy loam	10.0	Papaya fruit fly, mealybug, downy mildew
+Hoshangabad	2450	Red loamy	6.5	Coconut leaf miner, red palm weevil, black rot
+Indore	2550	Sandy loam	7.0	Rice stem borer, brown plant hopper, blast
+Jabalpur	2650	Red loamy	7.5	Fruit fly, mealybug, scale insects
+Jhabua	2750	Sandy loam	8.0	Citrus leaf miner, thrips, whiteflies
+Katni	2850	Red loamy	8.5	Mango hoppers, aphids, powdery mildew
+Khandwa	2950	Sandy loam	9.0	Cashew nut borer, leaf miner, black spot
+Khargone	3050	Red loamy	9.5	Banana thrips, leaf rollers, bacterial wilt
+Mandla	3150	Sandy loam	10.0	Papaya fruit fly, mealybug, downy mildew
+Morena	3250	Red loamy	6.5	Coconut leaf miner, red palm weevil, black rot
+Narmadapuram	3350	Sandy loam	7.0	Rice stem borer, brown plant hopper, blast
+Neemuch	3450	Red loamy	7.5	Fruit fly, mealybug, scale insects
+Niwari	3550	Sandy loam	8.0	Citrus leaf miner, thrips, whiteflies
+Panna	3650	Red loamy	8.5	Mango hoppers, aphids, powdery mildew
+Raisen	3750	Sandy loam	9.0	Cashew nut borer, leaf miner, black spot
+Rajgarh	3850	Red loamy	9.5	Banana thrips, leaf rollers, bacterial wilt
+Ratlam	3950	Sandy loam	10.0	Papaya fruit fly, mealybug, downy mildew
+Rewa	4050	Red loamy	6.5	Coconut leaf miner, red palm weevil, black rot
+Sagar	4150	Sandy loam	7.0	Rice stem borer, brown plant hopper, blast
+Satna	4250	Red loamy	7.5	Fruit fly, mealybug
+Ahmednagar	1000	Sandy loam	7.0	Whitefly, thrips, leaf miner
+Akola	1100	Black cotton	7.5	Rice stem borer, brown plant hopper, blast
+Amravati	1200	Red loamy	8.0	Fruit fly, mealybug, scale insects
+Aurangabad	1300	Sandy loam	8.5	Citrus leaf miner, thrips, whiteflies
+Beed	1400	Black cotton	9.0	Mango hoppers, aphids, powdery mildew
+Bhandara	1500	Sandy loam	9.5	Cashew nut borer, leaf miner, black spot
+Buldhana	1600	Red loamy	10.0	Banana thrips, leaf rollers, bacterial wilt
+Chandrapur	1700	Sandy loam	6.5	Coconut leaf miner, red palm weevil, black rot
+Chikhaldara	1800	Red loamy	7.0	Rice stem borer, brown plant hopper, blast
+Dhule	1900	Sandy loam	7.5	Fruit fly, mealybug, scale insects
+Gadchiroli	2000	Sandy loam	8.0	Citrus leaf miner, thrips, whiteflies
+Gondia	2100	Black cotton	8.5	Mango hoppers, aphids, powdery mildew
+Hingoli	2200	Red loamy	9.0	Cashew nut borer, leaf miner, black spot
+Jalgaon	2300	Sandy loam	9.5	Banana thrips, leaf rollers, bacterial wilt
+Jalna	2400	Black cotton	10.0	Coconut leaf miner, red palm weevil, black rot
+Kolhapur	2500	Sandy loam	6.5	Rice stem borer, brown plant hopper, blast
+Latur	2600	Red loamy	7.0	Fruit fly, mealybug, scale insects
+Mumbai	2700	Sandy loam	7.5	Citrus leaf miner, thrips, whiteflies
+Nagpur	2800	Black cotton	8.0	Mango hoppers, aphids, powdery mildew
+Nanded	2900	Red loamy	8.5	Cashew nut borer, leaf miner, black spot
+Nashik	3000	Sandy loam	9.0	Banana thrips, leaf rollers, bacterial wilt
+Osmanabad	3100	Black cotton	9.5	Coconut leaf miner, red palm weevil, black rot
+Palghar	3200	Sandy loam	10.0	Rice stem borer, brown plant hopper, blast
+Pune	3300	Red loamy	6.5	Fruit fly, mealybug, scale insects
+Raigad	3400	Sandy loam	7.0	Citrus leaf miner, thrips, whiteflies
+Ratnagiri	3500	Black cotton	7.5	Mango hoppers, aphids, powdery mildew
+Sangli	3600	Red loamy	8.0	Cashew nut borer, leaf miner, black spot
+Satara	3700	Sandy loam	8.5	Banana thrips, leaf rollers, bacterial wilt
+Sindhudurg	3800	Black cotton	9.0	Coconut leaf miner, red palm weevil, black rot
+Solapur	3900	Red loamy	9.5	Rice stem borer, brown plant hopper, blast
+Thane	4000	Sandy loam	10.0	Fruit fly, mealybug, scale insects
+Wardha	4100	Black cotton	6.5	Citrus leaf miner, thrips, whiteflies
+Washim	4200	Red loamy	7.0	Mango hoppers, aphids, powdery mildew
+Yavatmal	4300	Sandy loam	7.5	Cashew nut borer, leaf miner, black spot
+Bishnupur	2500	Alluvial	5	Brown leaf spot, rice stem borer, whitefly
+Chandel	3000	Lateritic	5.5	Early blight, late blight, potato tuber moth
+Churachandpur	3500	Red loamy	6	Rice blast, brown spot, powdery mildew
+Imphal East	4000	Sandy loam	6.5	Tea mosquito bug, thrips, leaf roller
+Imphal West	4500	Lateritic	7	Citrus leaf miner, scale insects, mealybugs
+Jiribam	5000	Red loamy	7.5	Coconut leaf miner, red palm weevil, black rot
+Kakching	5500	Sandy loam	8	Rice stem borer, whitefly, mealybugs
+Kangpokpi	6000	Lateritic	8.5	Tea mosquito bug, thrips, leaf roller
+Kamjong	6500	Sandy loam	9	Citrus leaf miner, scale insects, mealybugs
+Senapati	7000	Red loamy	9.5	Coconut leaf miner, red palm weevil, black rot
+Tamenglong	7500	Sandy loam	10	Rice stem borer, whitefly, mealybugs
+Tengnoupal	8000	Lateritic	6.5	Brown leaf spot, rice stem borer, whitefly
+Thoubal	8500	Red loamy	7	Early blight, late blight, potato tuber moth
+Ukhrul	9000	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+West Imphal	9500	Lateritic	8	Tea mosquito bug, thrips, leaf roller
+Yaoshang	10000	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+East Khasi Hills	2500	Lateritic	5.0	Brown leaf spot, rice stem borer, whitefly
+West Khasi Hills	3000	Red loamy	5.5	Early blight, late blight, potato tuber moth
+Jaintia Hills	3500	Sandy loam	6.0	Rice blast, brown spot, powdery mildew
+East Garo Hills	4000	Sandy loam	6.5	Tea mosquito bug, thrips, leaf roller
+West Garo Hills	4500	Lateritic	7.0	Citrus leaf miner, scale insects, mealybugs
+North Garo Hills	5000	Red loamy	7.5	Coconut leaf miner, red palm weevil, black rot
+Ri Bhoi	5500	Sandy loam	8.0	Rice stem borer, whitefly, mealybugs
+South West Khasi Hills	6000	Lateritic	8.5	Tea mosquito bug, thrips, leaf roller
+South West Garo Hills	6500	Sandy loam	9.0	Citrus leaf miner, scale insects, mealybugs
+South Garo Hills	7000	Red loamy	9.5	Coconut leaf miner, red palm weevil, black rot
+East Jaintia Hills	7500	Sandy loam	10.0	Rice stem borer, whitefly, mealybugs
+West Jaintia Hills	8000	Lateritic	6.5	Brown leaf spot, rice stem borer, whitefly
+North Jaintia Hills	8500	Red loamy	7.0	Early blight, late blight, potato tuber moth
+South West Jaintia Hills	9000	Sandy loam	7.5	Rice blast, brown spot, powdery mildew
+South East Jaintia Hills	9500	Lateritic	8.0	Tea mosquito bug, thrips, leaf roller
+South Jaintia Hills	10000	Sandy loam	8.5	Citrus leaf miner, scale insects, mealybugs
+Aizawl	2700	Sandy loam	5.5	Brown leaf spot, rice stem borer, whitefly
+Champhai	2500	Red loamy	6.0	Early blight, late blight, potato tuber moth
+Kolasib	2300	Lateritic	6.5	Rice blast, brown spot, powdery mildew
+Lawngtlai	2100	Sandy loam	7.0	Tea mosquito bug, thrips, leaf roller
+Lunglei	1900	Lateritic	7.5	Citrus leaf miner, scale insects, mealybugs
+Mamit	1700	Red loamy	8.0	Coconut leaf miner, red palm weevil, black rot
+Serchhip	1500	Sandy loam	8.5	Rice stem borer, whitefly, mealybugs
+Siaha	1300	Lateritic	9.0	Tea mosquito bug, thrips, leaf roller
+Saitual	1100	Sandy loam	9.5	Citrus leaf miner, scale insects, mealybugs
+Hnahthial	900	Red loamy	10.0	Coconut leaf miner, red palm weevil, black rot
+Khawzawl	700	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Khawpui Mual	500	Lateritic	7.0	Early blight, late blight, potato tuber moth
+North Champhai	300	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+South Champhai	100	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+West Champhai	-100	Lateritic	8.5	Citrus leaf miner, scale insects, mealybugs
+Dimapur	2500	Alluvial	5.5	Brown leaf spot, rice stem borer, whitefly
+Kohima	2300	Red loamy	6.0	Early blight, late blight, potato tuber moth
+Mokokchung	2100	Lateritic	6.5	Rice blast, brown spot, powdery mildew
+Wokha	1900	Sandy loam	7.0	Tea mosquito bug, thrips, leaf roller
+Zunheboto	1700	Lateritic	7.5	Citrus leaf miner, scale insects, mealybugs
+Phek	1500	Red loamy	8.0	Coconut leaf miner, red palm weevil, black rot
+Tuensang	1300	Sandy loam	8.5	Rice stem borer, whitefly, mealybugs
+Mon	1100	Lateritic	9.0	Tea mosquito bug, thrips, leaf roller
+Longleng	900	Sandy loam	9.5	Citrus leaf miner, scale insects, mealybugs
+Kiphire	700	Red loamy	10.0	Coconut leaf miner, red palm weevil, black rot
+Peren	500	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Noklak	300	Lateritic	7.0	Early blight, late blight, potato tuber moth
+Shamatore	100	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+Niuland	-100	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Chumoukedima	-300	Lateritic	8.5	Citrus leaf miner, scale insects, mealybugs
+Tseminyu	-500	Sandy loam	9.0	Rice stem borer, whitefly, mealybugs
+Dimapur II	-700	Lateritic	9.5	Tea mosquito bug, thrips, leaf roller
+Angul	1600	Black cotton	5.5	Brown leaf spot, rice stem borer, whitefly
+Baleswar	1800	Red loamy	6.0	Early blight, late blight, potato tuber moth
+Bargarh	2000	Lateritic	6.5	Rice blast, brown spot, powdery mildew
+Bhadrak	2200	Sandy loam	7.0	Tea mosquito bug, thrips, leaf roller
+Boudh	2400	Lateritic	7.5	Citrus leaf miner, scale insects, mealybugs
+Cuttack	2600	Red loamy	8.0	Coconut leaf miner, red palm weevil, black rot
+Deogarh	2800	Sandy loam	8.5	Rice stem borer, whitefly, mealybugs
+Dhenkanal	3000	Lateritic	9.0	Tea mosquito bug, thrips, leaf roller
+Gajapati	3200	Sandy loam	9.5	Citrus leaf miner, scale insects, mealybugs
+Ganjam	3400	Red loamy	10.0	Coconut leaf miner, red palm weevil, black rot
+Jagatsinghpur	3600	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Jajpur	3800	Lateritic	7.0	Early blight, late blight, potato tuber moth
+Jharsuguda	4000	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+Kalahandi	4200	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Kandhamal	4400	Lateritic	8.5	Citrus leaf miner, scale insects, mealybugs
+Kendrapara	4600	Red loamy	9.0	Coconut leaf miner, red palm weevil, black rot
+Keonjhar	4800	Sandy loam	9.5	Rice stem borer, whitefly, mealybugs
+Khordha	5000	Lateritic	10.0	Tea mosquito bug, thrips, leaf roller
+Koraput	5200	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Malkangiri	5400	Lateritic	7.0	Early blight, late blight, potato tuber moth
+Mayurbhanj	5600	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+Nabarangpur	5800	Sandy loam	8.0	Tea mosquito bug, thrips, leaf roller
+Nayagarh	6000	Lateritic	8.5	Citrus leaf miner, scale insects, mealybugs
+Nuapada	6200	Red loamy	9.0	Coconut leaf miner, red palm weevil, black rot
+Puri	6400	Sandy loam	9.5	Rice stem borer, whitefly, mealybugs
+Rayagada	6600	Lateritic	10.0	Tea mosquito bug, thrips, leaf roller
+Sambalpur	6800	Sandy loam	6.5	Brown leaf spot, rice stem borer, whitefly
+Sonepur	7000	Lateritic	7.0	Early blight, late blight, potato tuber moth
+Sundargarh	7200	Red loamy	7.5	Rice blast, brown spot, powdery mildew
+Amritsar	750	Sandy loam	8.5	Whitefly, thrips, leaf miner
+Barnala	650	Red loamy	9.0	Rice stem borer, brown plant hopper, blast
+Bathinda	550	Lateritic	9.5	Fruit fly, mealybug, scale insects
+Fazilka	450	Sandy loam	10.0	Citrus leaf miner, thrips, whiteflies
+Ferozepur	350	Red loamy	6.5	Mango hoppers, aphids, powdery mildew
+Gurdaspur	250	Lateritic	7.0	Cashew nut borer, leaf miner, black spot
+Hoshiarpur	150	Sandy loam	7.5	Banana thrips, leaf rollers, bacterial wilt
+Jalandhar	50	Red loamy	8.0	Papaya fruit fly, mealybug, downy mildew
+Kapurthala	-50	Lateritic	8.5	Coconut leaf miner, red palm weevil, black rot
+Ludhiana	-150	Sandy loam	9.0	Rice stem borer, brown plant hopper, blast
+Mansa	-250	Red loamy	9.5	Fruit fly, mealybug, scale insects
+Moga	-350	Lateritic	10.0	Citrus leaf miner, thrips, whiteflies
+Muktsar	-450	Sandy loam	6.5	Mango hoppers, aphids, powdery mildew
+Pathankot	-550	Red loamy	7.0	Cashew nut borer, leaf miner, black spot
+Patiala	-650	Lateritic	7.5	Banana thrips, leaf rollers, bacterial wilt
+Rupnagar	-750	Sandy loam	8.0	Papaya fruit fly, mealybug, downy mildew
+Sangrur	-850	Red loamy	8.5	Coconut leaf miner, red palm weevil, black rot
+SBS Nagar	-950	Lateritic	9.0	Rice stem borer, brown plant hopper, blast
+Ajmer	650	Sandy loam	8.5	Whitefly, thrips, leaf miner
+Alwar	550	Red loamy	9.0	Rice stem borer, brown plant hopper, blast
+Banswara	450	Lateritic	9.5	Fruit fly, mealybug, scale insects
+Barmer	350	Sandy loam	10.0	Citrus leaf miner, thrips, whiteflies
+Bharatpur	250	Red loamy	6.5	Mango hoppers, aphids, powdery mildew
+Bhilwara	150	Lateritic	7.0	Cashew nut borer, leaf miner, black spot
+Bikaner	50	Sandy loam	7.5	Banana thrips, leaf rollers, bacterial wilt
+Bundi	-50	Red loamy	8.0	Papaya fruit fly, mealybug, downy mildew
+Chittorgarh	-150	Lateritic	8.5	Coconut leaf miner, red palm weevil, black rot
+Churu	-250	Sandy loam	9.0	Rice stem borer, brown plant hopper, blast
+Dausa	-350	Red loamy	9.5	Fruit fly, mealybug, scale insects
+Dholpur	-450	Lateritic	10.0	Citrus leaf miner, thrips, whiteflies
+Dungarpur	-550	Sandy loam	6.5	Mango hoppers, aphids, powdery mildew
+Hanumangarh	-650	Red loamy	7.0	Cashew nut borer, leaf miner, black spot
+Jaipur	-750	Lateritic	7.5	Banana thrips, leaf rollers, bacterial wilt
+Jaisalmer	-850	Sandy loam	8.0	Papaya fruit fly, mealybug, downy mildew
+Jalore	-950	Red loamy	8.5	Coconut leaf miner, red palm weevil, black rot
+East Sikkim	4500	Sandy loam	7.5	Whitefly, thrips, leaf miner
+West Sikkim	4000	Red loamy	8.0	Rice stem borer, brown plant hopper, blast
+North Sikkim	3500	Lateritic	8.5	Fruit fly, mealybug, scale insects
+South Sikkim	3000	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Gyalshing	2500	Red loamy	9.5	Mango hoppers, aphids, powdery mildew
+Mangan	2000	Lateritic	10.0	Cashew nut borer, leaf miner, black spot
+Namchi	1500	Sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Rangpo	1000	Red loamy	7.0	Papaya fruit fly, mealybug, downy mildew
+Singtam	500	Lateritic	7.5	Coconut leaf miner, red palm weevil, black rot
+Gangtok	0	Sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Chennai	1200	Sandy loam	8.5	Whitefly, thrips, leaf miner
+Coimbatore	750	Red loamy	9.0	Rice stem borer, brown plant hopper, blast
+Erode	650	Lateritic	9.5	Fruit fly, mealybug, scale insects
+Madurai	550	Sandy loam	10.0	Citrus leaf miner, thrips, whiteflies
+Tiruchirappalli	450	Red loamy	6.5	Mango hoppers, aphids, powdery mildew
+Thanjavur	350	Lateritic	7.0	Cashew nut borer, leaf miner, black spot
+Tirunelveli	250	Sandy loam	7.5	Banana thrips, leaf rollers, bacterial wilt
+Vellore	150	Red loamy	8.0	Papaya fruit fly, mealybug, downy mildew
+Villupuram	50	Lateritic	8.5	Coconut leaf miner, red palm weevil, black rot
+Kanchipuram	0	Sandy loam	9.0	Rice stem borer, brown plant hopper, blast
+Tirupur	500	Red loamy	9.5	Fruit fly, mealybug, scale insects
+Namakkal	400	Lateritic	10.0	Citrus leaf miner, thrips, whiteflies
+Dindigul	300	Sandy loam	6.5	Mango hoppers, aphids, powdery mildew
+Salem	200	Red loamy	7.0	Cashew nut borer, leaf miner, black spot
+Cuddalore	100	Lateritic	7.5	Banana thrips, leaf rollers, bacterial wilt
+Theni	0	Sandy loam	8.0	Papaya fruit fly, mealybug, downy mildew
+Kanyakumari	1000	Red loamy	8.5	Coconut leaf miner, red palm weevil, black rot
+Tiruvallur	900	Lateritic	9.0	Rice stem borer, brown plant hopper, blast
+Adilabad	1200	Sandy loam	8.5	Whitefly, thrips, leaf miner
+Hyderabad	750	Red loamy	9.0	Rice stem borer, brown plant hopper, blast
+Karimnagar	650	Lateritic	9.5	Fruit fly, mealybug, scale insects
+Kamareddy	550	Sandy loam	10.0	Citrus leaf miner, thrips, whiteflies
+Mahabubnagar	450	Red loamy	6.5	Mango hoppers, aphids, powdery mildew
+Medak	350	Lateritic	7.0	Cashew nut borer, leaf miner, black spot
+Nalgonda	250	Sandy loam	7.5	Banana thrips, leaf rollers, bacterial wilt
+Nizamabad	150	Red loamy	8.0	Papaya fruit fly, mealybug, downy mildew
+Rangareddy	50	Lateritic	8.5	Coconut leaf miner, red palm weevil, black rot
+Sangareddy	0	Sandy loam	9.0	Rice stem borer, brown plant hopper, blast
+Siddipet	500	Red loamy	9.5	Fruit fly, mealybug, scale insects
+Vikarabad	400	Lateritic	10.0	Citrus leaf miner, thrips, whiteflies
+Warangal (Rural)	300	Sandy loam	6.5	Mango hoppers, aphids, powdery mildew
+Warangal (Urban)	200	Red loamy	7.0	Cashew nut borer, leaf miner, black spot
+Jangaon	100	Lateritic	7.5	Banana thrips, leaf rollers, bacterial wilt
+Peddapalli	0	Sandy loam	8.0	Papaya fruit fly, mealybug, downy mildew
+Mulugu	1000	Red loamy	8.5	Coconut leaf miner, red palm weevil, black rot
+Yadadri Bhuvanagiri	900	Lateritic	9.0	Rice stem borer, brown plant hopper, blast
+Dhalai	3500	Sandy loam	7.5	Whitefly, thrips, leaf miner
+Sepahijala	3000	Red loamy	8.0	Rice stem borer, brown plant hopper, blast
+North Tripura	2500	Lateritic	8.5	Fruit fly, mealybug, scale insects
+Gomati	2000	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+South Tripura	1500	Red loamy	9.5	Mango hoppers, aphids, powdery mildew
+West Tripura	1000	Lateritic	10.0	Cashew nut borer, leaf miner, black spot
+Unakoti	500	Sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Almora	1800	Sandy loam	7.5	Whitefly, thrips, leaf miner
+Bageshwar	1600	Red loamy	8.0	Rice stem borer, brown plant hopper, blast
+Champawat	1400	Lateritic	8.5	Fruit fly, mealybug, scale insects
+Chamoli	1200	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Dehradun	1000	Red loamy	9.5	Mango hoppers, aphids, powdery mildew
+Haridwar	800	Lateritic	10.0	Cashew nut borer, leaf miner, black spot
+Nainital	600	Sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Pauri Garhwal	400	Red loamy	7.0	Papaya fruit fly, mealybug, downy mildew
+Pithoragarh	200	Lateritic	7.5	Coconut leaf miner, red palm weevil, black rot
+Rudraprayag	0	Sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Tehri Garhwal	500	Red loamy	8.5	Fruit fly, mealybug, scale insects
+Uttarkashi	400	Lateritic	9.0	Citrus leaf miner, thrips, whiteflies
+Udham Singh Nagar	300	Sandy loam	9.5	Mango hoppers, aphids, powdery mildew
+Agra	750	Sandy loam	8.5	Whitefly, thrips, leaf miner
+Aligarh	650	Red loamy	9.0	Rice stem borer, brown plant hopper, blast
+Allahabad	550	Lateritic	9.5	Fruit fly, mealybug, scale insects
+Ambedkar Nagar	450	Sandy loam	10.0	Citrus leaf miner, thrips, whiteflies
+Amroha	350	Red loamy	6.5	Mango hoppers, aphids, powdery mildew
+Auraiya	250	Lateritic	7.0	Cashew nut borer, leaf miner, black spot
+Azamgarh	150	Sandy loam	7.5	Banana thrips, leaf rollers, bacterial wilt
+Badaun	50	Red loamy	8.0	Papaya fruit fly, mealybug, downy mildew
+Baghpat	0	Lateritic	8.5	Coconut leaf miner, red palm weevil, black rot
+Bahraich	500	Sandy loam	9.0	Rice stem borer, brown plant hopper, blast
+Ballia	400	Red loamy	9.5	Fruit fly, mealybug, scale insects
+Balrampur	300	Lateritic	10.0	Citrus leaf miner, thrips, whiteflies
+Banda	200	Sandy loam	6.5	Mango hoppers, aphids, powdery mildew
+Barabanki	100	Red loamy	7.0	Cashew nut borer, leaf miner, black spot
+Bareilly	0	Lateritic	7.5	Banana thrips, leaf rollers, bacterial wilt
+Basti	500	Sandy loam	8.0	Papaya fruit fly, mealybug, downy mildew
+Bhadohi	400	Red loamy	8.5	Coconut leaf miner, red palm weevil, black rot
+Bijnor	300	Lateritic	9.0	Rice stem borer, brown plant hopper, blast
+Budaun	200	Sandy loam	9.5	Fruit fly, mealybug, scale insects
+Bulandshahr	100	Red loamy	10.0	Citrus leaf miner, thrips, whiteflies
+Alipurduar	4500	Sandy loam	7.5	Whitefly, thrips, leaf miner
+Bankura	3500	Red loamy	8.0	Rice stem borer, brown plant hopper, blast
+Birbhum	3000	Lateritic	8.5	Fruit fly, mealybug, scale insects
+Burdwan	2500	Sandy loam	9.0	Citrus leaf miner, thrips, whiteflies
+Cooch Behar	2000	Red loamy	9.5	Mango hoppers, aphids, powdery mildew
+Darjeeling	1500	Lateritic	10.0	Cashew nut borer, leaf miner, black spot
+Hooghly	1000	Sandy loam	6.5	Banana thrips, leaf rollers, bacterial wilt
+Howrah	500	Red loamy	7.0	Papaya fruit fly, mealybug, downy mildew
+Jalpaiguri	0	Lateritic	7.5	Coconut leaf miner, red palm weevil, black rot
+Jhargram	500	Sandy loam	8.0	Rice stem borer, brown plant hopper, blast
+Kalimpong	400	Red loamy	8.5	Fruit fly, mealybug, scale insects
+Malda	300	Lateritic	9.0	Citrus leaf miner, thrips, whiteflies
+Medinipur	200	Sandy loam	9.5	Mango hoppers, aphids, powdery mildew
+Murshidabad	100	Red loamy	10.0	Cashew nut borer, leaf miner, black spot
+Nadia	0	Lateritic	6.5	Banana thrips, leaf rollers, bacterial wilt
+North 24 Parganas	500	Sandy loam	7.0	Papaya fruit fly, mealybug, downy mildew
+South 24 Parganas	400	Red loamy	7.5	Coconut leaf miner, red palm weevil, black rot
+m
